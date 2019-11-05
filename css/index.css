@@ -1,0 +1,24 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40em;
+  width: 88%;
+}
+label,
+input,
+textarea {
+  width: 100%;
+}
+label {
+  font-weight: bold;
+}
+input,
+textarea {
+  margin-bottom: 2em;
+}
+textarea {
+  height: 12em;
+}
+#progressBar {
+  width: 100%;
+}
